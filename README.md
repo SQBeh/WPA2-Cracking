@@ -127,10 +127,9 @@ pip install requests colorama
 
 - Developed by: **SQB EHPS**
 - **YouTube**: [@SQBEHPS](https://www.youtube.com/@SQBEHPS)  
-- **GitHub**: [github.com/SQBEHPS](https://github.com/SQBEHPS)  
-- **Second GitHub**: [github.com/SQBEHPS2](https://github.com/SQBEHPS2)  
+- **YouTube**: [@SQBVerse](https://youtube.com/@sqbverse)  
 - **Facebook**: [SQB EHPS Service](https://facebook.com)
-
+- **Website**: [Check](https://items.kesug.com/)  
 ---
 
 ## **License**
