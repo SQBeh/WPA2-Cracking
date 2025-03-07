@@ -37,7 +37,7 @@ Click [here](https://items.kesug.com/Product/product-24) to download the latest 
 ## **Dependencies**
 
 ### **Required Tools**
-- `aircrack-ng` (must be installed and available in the system PATH). You can install from [here](https://github.com/SQBEHPS2/termux-Aircrack-ng)
+- `aircrack-ng` (must be installed and available in the system PATH). You can install from telegram [here](https://t.me/SQBeh/2)
 
 ### **Python Libraries**
 Install the required libraries using `pip`:
