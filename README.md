@@ -52,7 +52,7 @@ pip install requests colorama
 
 1. **Install to Your Devices**
      ```bash
-     git clone https://github.com/SQBEHPS2/WPA2-Cracking
+     git clone https://github.com/SQBeh/WPA2-Cracking
      ```
    **Copy Handshake:**
      You need to copy of handshake pcap or hccapx file to tools folder.
