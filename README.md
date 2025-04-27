@@ -66,7 +66,7 @@ pip install requests colorama
      ```
    **Run the Script**  
      ```bash
-     python wpa2-cracking.py
+     python w2c.py
      ```
 
 2. **Choose an Option**  
